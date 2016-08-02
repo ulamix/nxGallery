@@ -2,5 +2,5 @@ language: node_js
 node_js:
   - 6.2
 before_script:
-  - npm install -g webpack
-script: webpack --config webpack.test.js
+  - npm install -g jasmine
+script: jasmine JASMINE_CONFIG_PATH=test/specs/_specs.json

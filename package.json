@@ -10,6 +10,7 @@
     "test": ""
   },
   "devDependencies": {
+    "jasmine": "^2.4.1",
     "webpack": "^1.13.1"
   }
 }
