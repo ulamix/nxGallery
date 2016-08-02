@@ -10,9 +10,10 @@ profile
 
 node_modules
 *.zip
-out
+dist
 secret.json
 src/templates/compiled.js
 .grunt
 _SpecRunner.html
 history.json
+npm-debug.log
