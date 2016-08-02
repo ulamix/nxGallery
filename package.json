@@ -1,14 +1,14 @@
 {
   "name": "fotorama2",
-  "version": "5.0.1",
+  "description": "Gallery written on top of ES6. In development... ",
+  "version": "5.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/uharbachou/fotorama2.git"
   },
   "scripts": {
-    "test": "gulp test"
+    "test": ""
   },
   "devDependencies": {
-    "gulp": "^3.9.1"
   }
 }
