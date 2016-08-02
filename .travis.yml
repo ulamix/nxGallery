@@ -3,4 +3,4 @@ node_js:
   - 6.2
 before_script:
   - npm install -g webpack
-script: webpack
+script: webpack --config webpack.test.js
