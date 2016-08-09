@@ -29,6 +29,7 @@ gulp.task('concat', () => {
         'src/js/instances.js',
         'src/js/cache.js',
         'src/js/measures.js',
+        'src/js/templates.es6.js',
         'src/js/auto-initialization.js',
         'src/js/outro.js'
    ])
