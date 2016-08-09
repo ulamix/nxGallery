@@ -118,7 +118,7 @@ jQuery.Fotorama = function ($fotorama, opts) {
   fotoramaData.fotorama = this;
 
   function checkForVideo () {
-    $.each(data, function (i, dataFrame) {
+    $.each(data, (i, dataFrame) => {
       if (!dataFrame.i) {
         dataFrame.i = dataFrameCount++;
         var video = findVideoId(dataFrame.video, true);
