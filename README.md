@@ -1,4 +1,4 @@
-# PhotoGallery
+# **imgSlide** gallery
 _**Note:** library under development..._</br>
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 [![Build Status](https://travis-ci.org/ximifire/imgSlide.svg?branch=master)](https://travis-ci.org/ximifire/imgSlide)
